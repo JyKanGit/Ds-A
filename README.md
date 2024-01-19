@@ -1,6 +1,7 @@
 # Project from one of the university courses
 
-This repository contains course exercise on the subject of datastructures and algorithms.
+This repository contains a course exercise focusing on data structures and algorithms. The project involved creating a weighted graph from towns and roads, enabling the implementation various graph algorithms.
 
-The user can add towns and roads between the towns. A town is defined with [x,y] coordinates and an unique townID. A road is defined as a straight path between two towns. User can then perform operations for the data, for example user can find a the shortest route between towns or a route that contains the least amount of towns.
+## Project Description
 
+The project implements several graph traversal and searching algorithms, including depth-first search, breadth-first search, Kruskal's algorithm, and A* algorithm.
